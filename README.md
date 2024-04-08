@@ -1,6 +1,8 @@
 <!-- omit in toc -->
 # Oasis  ― User Onboarding & Offboarding Automation System
 
+[![🧪 Tests](https://github.com/angelmadames/oasis/actions/workflows/tests.yml/badge.svg)](https://github.com/angelmadames/oasis/actions/workflows/tests.yml)
+
 <!-- omit in toc -->
 ## Content
 
